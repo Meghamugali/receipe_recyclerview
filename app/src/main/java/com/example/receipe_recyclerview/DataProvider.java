@@ -17,7 +17,7 @@ public class DataProvider {
         String description = "My mom has been making this recipe since I was little. " +
                 "This dessert is a big hit at every barbecue and potluck I bring this to! Sometimes I use pecans " +
                 "instead of walnuts. This is great with coconuts, raisins, and dried cranberries, too!";
-        String image = "https://images.media-allrecipes.com/userphotos/250x250/829687.jpg";
+        String image = "https://tornadoughalli.com/wp-content/uploads/2018/07/Banana-Bread-Pudding3-2.jpg";
         String ingredients = "1/2 cup butter, divided\n" +
                 "1 (16 ounce) loaf day-old French bread, cut into 1-inch cubes\n" +
                 "1 cup chopped walnuts\n" +

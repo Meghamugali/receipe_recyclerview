@@ -23,8 +23,6 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-
-
         recipes = DataProvider.getRecipes();
 
         rcView = findViewById(R.id.recyclerview);
@@ -35,8 +33,5 @@ public class MainActivity extends AppCompatActivity {
 
         rcView.setLayoutManager(new LinearLayoutManager(this));
     }
-
-
-
 
 }
